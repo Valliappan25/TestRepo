@@ -1,0 +1,10 @@
+1630991620469	geckodriver	INFO	Listening on 127.0.0.1:37325
+1630991620479	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileavsvob"
+1630991621373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileavsvob/search.json.mozlz4", (void 0)))
+1630991623378	Marionette	INFO	Listening on port 42577
+1630991623435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630991720152	Marionette	INFO	Stopped listening on port 42577
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630991723189	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)

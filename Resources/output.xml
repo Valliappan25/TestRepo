@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.0.3 (Python 3.8.10 on linux)" generated="20210924 11:48:43.355" rpa="false" schemaversion="2">
+<suite id="s1" name="Robot Scratchpad" source="/home/n1502752/.vscode/extensions/robocorp.robotframework-lsp-0.22.0/src/robotframework_ls/vendored/robotframework_interactive/robot_scratchpad.robot">
+<test id="s1-t1" name="Default Task/Test">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<status status="PASS" starttime="20210924 11:48:43.384" endtime="20210924 11:49:11.320"/>
+</kw>
+<status status="PASS" starttime="20210924 11:48:43.383" endtime="20210924 11:49:11.320"/>
+</test>
+<status status="PASS" starttime="20210924 11:48:43.356" endtime="20210924 11:49:11.322"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Scratchpad">Robot Scratchpad</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
